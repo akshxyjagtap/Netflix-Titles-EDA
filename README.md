@@ -1,19 +1,26 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
+# Netflix Movies and TV Shows EDA
 
-**NETFLIX MOVIES AND TV SHOWS EDA**
+Welcome to the Netflix Movies and TV Shows Exploratory Data Analysis (EDA) project!
 
-- Exploratory data analysis on NETFLIX MOVIES AND TV SHOWS
-- EDA done using python, numpy, pandas, matplotlib, seaborn and plotly.
-- You will find many usefull visualisations and interactive dashboards in the project.
-- Dataset - [netflix_titles from kaggle]( https://www.kaggle.com/shivamb/netflix-shows) .
-- Kaggle Link to this project [LINK](https://www.kaggle.com/akshxy/netflix-exploratory-data-analysis) . 
+This project delves into the fascinating world of Netflix content, examining trends, patterns, and insights using Python's data science and visualization libraries, including NumPy, Pandas, Matplotlib, Seaborn, and Plotly.
 
+## Project Highlights:
 
+- **Exploratory Data Analysis:** Dive deep into the Netflix titles dataset sourced from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-and), unraveling valuable insights and trends in the content landscape.
 
-ps. As github does not renders all visualisation and  dashboards and sometimes fails to load code so
-kindly open project from this link - [KAGGLE](https://www.kaggle.com/akshxy/netflix-exploratory-data-analysis) or  [ONLINE NB VIEWER](http://nbviewer.ipython.org/github/akshxyjagtap/Data-Science/blob/85f26f2b65c7d12061aa99ef4925b9c844dbaed5/NETFLIX/code/NETFLIX%20_EDA.ipynb) it takes a min or two.
+- **Python Tools:** Leveraging the power of Python and its rich ecosystem of data analysis and visualization tools, including Pandas for data manipulation, Matplotlib and Seaborn for static visualizations, and Plotly for interactive dashboards.
+
+- **Interactive Dashboards:** Explore a variety of useful visualizations and interactive dashboards that offer a dynamic perspective on Netflix's vast library of movies and TV shows.
+
+- **Kaggle Integration:** Access the project and dataset conveniently via the provided [Kaggle link](https://www.kaggle.com/code/akshxy/netflix-exploratory-data-analysis/notebook), ensuring seamless navigation and interaction with the analyses.
+
+- **Online Viewing:** For optimal viewing experience, access the project through the provided Kaggle link or [Online Notebook Viewer](https://www.kaggle.com/code/akshxy/netflix-exploratory-data-analysis/notebook), where you can explore the visualizations and dashboards without interruptions.
+
+Uncover intriguing insights and trends in Netflix's extensive collection of movies and TV shows through this comprehensive EDA project. Happy exploring!
+
 
 
 
